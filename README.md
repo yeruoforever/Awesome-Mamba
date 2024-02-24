@@ -3,6 +3,15 @@ Awsome works based on SSM and Mamba
 
 ## SSMs
 
+### Post
+
+* [The Annotated S4](https://srush.github.io/annotated-s4/)
+* [Structured State Spaces for Sequence Modeling (S4) part 1](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-1)
+* [Structured State Spaces for Sequence Modeling (S4) part 2](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-2)
+* [Structured State Spaces for Sequence Modeling (S4) part 3](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-3)
+* [HiPPO: Recurrent Memory with Optimal Polynomial Projections](https://hazyresearch.stanford.edu/blog/2020-12-05-hippo)
+* [H3: Language Modeling with State Space Models and (Almost) No Attention](https://hazyresearch.stanford.edu/blog/2023-01-20-h3)
+
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
 |[Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling](https://arxiv.org/abs/2402.10211)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2402.10211)|
@@ -11,6 +20,7 @@ Awsome works based on SSM and Mamba
 |[Is Mamba Capable of In-Context Learning?](https://arxiv.org/abs/2402.03170)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2402.03170)|
 |[BlackMamba: Mixture of Experts for State-Space Models](https://arxiv.org/abs/2402.01771)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2402.01771)|
 |[Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)|2023|arXiv| code |[pdf](https://arxiv.org/abs/2312.00752)|
+|[Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors](https://arxiv.org/abs/2310.02980)|2023|arXiv| code |[pdf](https://arxiv.org/abs/2310.02980)|
 |[Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052)|2022|ICLR 2023| code |[pdf](https://arxiv.org/abs/2212.14052)|
 |[On the Parameterization and Initialization of Diagonal State Space Models](https://arxiv.org/abs/2206.11893)|2022|arXiv| code |[pdf](https://arxiv.org/abs/2206.11893)|
 |[S4ND: Modeling Images and Videos as Multidimensional Signals Using State Spaces](https://arxiv.org/abs/2210.06583)|2022|arXiv| code |[pdf](https://arxiv.org/abs/2210.06583)|
@@ -19,7 +29,14 @@ Awsome works based on SSM and Mamba
 |[HiPPO: Recurrent Memory with Optimal Polynomial Projections](https://arxiv.org/abs/2008.07669)|2020|arXiv| code |[pdf](https://arxiv.org/abs/2008.07669)|
 
 
+
 ## Time Series
+
+### Audio generation
+
+|Title|Year|Venue|Code|PDF|
+|---|---|---|---|---|
+|[It's Raw! Audio Generation with State-Space Models](https://arxiv.org/abs/2202.09729)|2022|arXiv| code |[pdf](https://arxiv.org/abs/2202.09729)|
 
 ##  NLP
 
