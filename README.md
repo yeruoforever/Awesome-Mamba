@@ -21,12 +21,19 @@ Awsome works based on SSM and Mamba
 |[BlackMamba: Mixture of Experts for State-Space Models](https://arxiv.org/abs/2402.01771)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2402.01771)|
 |[Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)|2023|arXiv| code |[pdf](https://arxiv.org/abs/2312.00752)|
 |[Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors](https://arxiv.org/abs/2310.02980)|2023|arXiv| code |[pdf](https://arxiv.org/abs/2310.02980)|
+|[What Makes Convolutional Models Great on Long Sequence Modeling?](https://arxiv.org/abs/2210.09298)|2023|ICLR 2023| code |[pdf](https://arxiv.org/abs/2210.09298)|
+|[Mega: Moving Average Equipped Gated Attention](https://arxiv.org/abs/2209.10655)|2023|ICLR 2023| code |[pdf](https://arxiv.org/abs/2209.10655)|
+|[Liquid Structural State-Space Models](https://arxiv.org/abs/2209.12951)|2023|ICLR 2023| code |[pdf](https://arxiv.org/abs/2209.12951)|
 |[Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052)|2022|ICLR 2023| code |[pdf](https://arxiv.org/abs/2212.14052)|
-|[On the Parameterization and Initialization of Diagonal State Space Models](https://arxiv.org/abs/2206.11893)|2022|arXiv| code |[pdf](https://arxiv.org/abs/2206.11893)|
-|[S4ND: Modeling Images and Videos as Multidimensional Signals Using State Spaces](https://arxiv.org/abs/2210.06583)|2022|arXiv| code |[pdf](https://arxiv.org/abs/2210.06583)|
-|[How to Train Your HiPPO: State Space Models with Generalized Orthogonal Basis Projections](https://arxiv.org/abs/2206.12037)|2022|arXiv| code |[pdf](https://arxiv.org/abs/2206.12037)|
-|[Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396)|2021|arXiv| code |[pdf](https://arxiv.org/abs/2111.00396)|
-|[HiPPO: Recurrent Memory with Optimal Polynomial Projections](https://arxiv.org/abs/2008.07669)|2020|arXiv| code |[pdf](https://arxiv.org/abs/2008.07669)|
+|[On the Parameterization and Initialization of Diagonal State Space Models](https://arxiv.org/abs/2206.11893)|2022|NeurIPS 2022| code |[pdf](https://arxiv.org/abs/2206.11893)|
+|[S4ND: Modeling Images and Videos as Multidimensional Signals Using State Spaces](https://arxiv.org/abs/2210.06583)|2022|NeurIPS 2022| [code](https://github.com/state-spaces/s4/tree/main/models/s4nd) |[pdf](https://arxiv.org/abs/2210.06583)|
+|[Long Range Language Modeling via Gated State Spaces](https://arxiv.org/abs/2206.13947)|2022|ICLR 2023| code |[pdf](https://arxiv.org/abs/2206.13947)|
+|[Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2208.04933)|2022|ICLR 2023| [code](https://github.com/lindermanlab/S5) |[pdf](https://arxiv.org/abs/2208.04933)|
+|[How to Train Your HiPPO: State Space Models with Generalized Orthogonal Basis Projections](https://arxiv.org/abs/2206.12037)|2022|ICLR 2023| code |[pdf](https://arxiv.org/abs/2206.12037)|
+|[Diagonal State Spaces are as Effective as Structured State Spaces](https://arxiv.org/abs/2203.14343)|2022|NeurIPS 2022 - Spotlight| code |[pdf](https://arxiv.org/abs/2203.14343)|
+|[Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396)|2021|ICLR 2022 - Outstanding Paper HM| [code](https://github.com/state-spaces/s4/tree/main/models/s4) |[pdf](https://arxiv.org/abs/2111.00396)|
+|[Combining Recurrent, Convolutional, and Continuous-time Models with the Linear State Space Layer](https://arxiv.org/abs/2110.13985)|2021|NeurIPS 2021| code |[pdf](https://arxiv.org/abs/2110.13985)|
+|[HiPPO: Recurrent Memory with Optimal Polynomial Projections](https://arxiv.org/abs/2008.07669)|2020|NeurIPS 2020 - Spotlight| [code](https://github.com/state-spaces/s4/tree/main/models/hippo) |[pdf](https://arxiv.org/abs/2008.07669)|
 
 
 
@@ -36,7 +43,7 @@ Awsome works based on SSM and Mamba
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
-|[It's Raw! Audio Generation with State-Space Models](https://arxiv.org/abs/2202.09729)|2022|arXiv| code |[pdf](https://arxiv.org/abs/2202.09729)|
+|[It's Raw! Audio Generation with State-Space Models](https://arxiv.org/abs/2202.09729)|2022|ICML 2022 - Long Talk| [code](https://github.com/state-spaces/s4/tree/main/models/sashimi) |[pdf](https://arxiv.org/abs/2202.09729)|
 
 ##  NLP
 
