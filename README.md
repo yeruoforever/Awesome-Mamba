@@ -3,6 +3,12 @@ Awsome works based on SSM and Mamba
 
 ## SSMs
 
+### Blog
+
+* [A Visual Guide to Mamba and State Space Models (MAARTEN GROOTENDORST)](https://maartengrootendorst.substack.com/p/a-visual-guide-to-mamba-and-state)
+* [Introduction to State Space Models (SSM) (lbourdois
+Loïck BOURDOIS)](https://huggingface.co/blog/lbourdois/get-on-the-ssm-train)
+
 ### Post
 
 * [The Annotated S4](https://srush.github.io/annotated-s4/)
