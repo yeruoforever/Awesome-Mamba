@@ -11,12 +11,12 @@ Loïck BOURDOIS)](https://huggingface.co/blog/lbourdois/get-on-the-ssm-train)
 
 ### Post
 
+* [H3: Language Modeling with State Space Models and (Almost) No Attention](https://hazyresearch.stanford.edu/blog/2023-01-20-h3)
 * [The Annotated S4](https://srush.github.io/annotated-s4/)
 * [Structured State Spaces for Sequence Modeling (S4) part 1](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-1)
 * [Structured State Spaces for Sequence Modeling (S4) part 2](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-2)
 * [Structured State Spaces for Sequence Modeling (S4) part 3](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-3)
 * [HiPPO: Recurrent Memory with Optimal Polynomial Projections](https://hazyresearch.stanford.edu/blog/2020-12-05-hippo)
-* [H3: Language Modeling with State Space Models and (Almost) No Attention](https://hazyresearch.stanford.edu/blog/2023-01-20-h3)
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
@@ -71,16 +71,18 @@ Loïck BOURDOIS)](https://huggingface.co/blog/lbourdois/get-on-the-ssm-train)
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
-|[Pan-Mamba: Effective pan-sharpening with State Space Model](https://arxiv.org/pdf/2402.12192.pdf)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.12192.pdf)|
-|[U-shaped Vision Mamba for Single Image Dehazing](https://arxiv.org/abs/2402.04139)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2402.04139)|
-|[Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model](https://arxiv.org/abs/2401.09417)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2401.09417)|
+|[MambaIR: A Simple Baseline for Image Restoration with State-Space Model](https://arxiv.org/abs/2402.15648)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.15648)|
+|[Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning](https://arxiv.org/abs/2402.15761)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.15761)|
+|[Pan-Mamba: Effective pan-sharpening with State Space Model](https://arxiv.org/abs/2402.12192.pdf)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.12192.pdf)|
+|[U-shaped Vision Mamba for Single Image Dehazing](https://arxiv.org/abs/2402.04139)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.04139)|
+|[Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model](https://arxiv.org/abs/2401.09417)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2401.09417)|
 
 
 ### Foundation Model
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
-|[Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining](https://arxiv.org/abs/2402.03302)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2402.03302)|
+|[Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining](https://arxiv.org/abs/2402.03302)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.03302)|
 
 
 
