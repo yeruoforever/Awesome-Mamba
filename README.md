@@ -20,6 +20,7 @@ Loïck BOURDOIS)](https://huggingface.co/blog/lbourdois/get-on-the-ssm-train)
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[Theoretical Foundations of Deep Selective State-Space Models](https://arxiv.org/abs/2402.19047)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.19047)|
 |[Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling](https://arxiv.org/abs/2402.10211)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2402.10211)|
 |[Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data](https://arxiv.org/abs/2402.05892)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2402.05892)|
 |[Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks](https://arxiv.org/abs/2402.04248)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2402.04248)|
@@ -49,6 +50,7 @@ Loïck BOURDOIS)](https://huggingface.co/blog/lbourdois/get-on-the-ssm-train)
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[MambaStock: Selective state space model for stock prediction](https://arxiv.org/abs/2402.18959)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.18959)|
 |[It's Raw! Audio Generation with State-Space Models](https://arxiv.org/abs/2202.09729)|2022|ICML 2022 - Long Talk| [code](https://github.com/state-spaces/s4/tree/main/models/sashimi) |[pdf](https://arxiv.org/abs/2202.09729)|
 
 ##  NLP
@@ -139,5 +141,6 @@ Loïck BOURDOIS)](https://huggingface.co/blog/lbourdois/get-on-the-ssm-train)
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.19427)|
 |[Gated Linear Attention Transformers with Hardware-Efficient Training](https://arxiv.org/abs/2312.06635)|2023|arXiv| code |[pdf](https://arxiv.org/abs/2312.06635)|
 
