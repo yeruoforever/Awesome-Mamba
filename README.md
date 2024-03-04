@@ -128,6 +128,7 @@ Loïck BOURDOIS)](https://huggingface.co/blog/lbourdois/get-on-the-ssm-train)
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[Point Could Mamba: Point Cloud Learning via State Space Model](https://arxiv.org/abs/2403.00762)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.00762)|
 |[PointMamba: A Simple State Space Model for Point Cloud Analysis](https://arxiv.org/abs/2402.10739)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2402.10739)|
 
 
