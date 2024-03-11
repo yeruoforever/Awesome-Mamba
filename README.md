@@ -6,8 +6,7 @@ Awsome works based on SSM and Mamba
 ### Blog
 
 * [A Visual Guide to Mamba and State Space Models (MAARTEN GROOTENDORST)](https://maartengrootendorst.substack.com/p/a-visual-guide-to-mamba-and-state)
-* [Introduction to State Space Models (SSM) (lbourdois
-Loïck BOURDOIS)](https://huggingface.co/blog/lbourdois/get-on-the-ssm-train)
+* [Introduction to State Space Models (SSM) (lbourdois Loïck BOURDOIS)](https://huggingface.co/blog/lbourdois/get-on-the-ssm-train)
 
 ### Post
 
@@ -51,6 +50,7 @@ Loïck BOURDOIS)](https://huggingface.co/blog/lbourdois/get-on-the-ssm-train)
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[MambaLithium: Selective state space model for remaining-useful-life, state-of-health, and state-of-charge estimation of lithium-ion batteries](https://arxiv.org/abs/2403.05430)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.05430)|
 |[MambaStock: Selective state space model for stock prediction](https://arxiv.org/abs/2402.18959)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.18959)|
 |[It's Raw! Audio Generation with State-Space Models](https://arxiv.org/abs/2202.09729)|2022|ICML 2022 - Long Talk| [code](https://github.com/state-spaces/s4/tree/main/models/sashimi) |[pdf](https://arxiv.org/abs/2202.09729)|
 
@@ -75,6 +75,7 @@ Loïck BOURDOIS)](https://huggingface.co/blog/lbourdois/get-on-the-ssm-train)
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models](https://arxiv.org/abs/2403.05160)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.05160)|
 |[MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection](https://arxiv.org/abs/2403.02148)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.02148)|
 |[MambaIR: A Simple Baseline for Image Restoration with State-Space Model](https://arxiv.org/abs/2402.15648)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.15648)|
 |[Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning](https://arxiv.org/abs/2402.15761)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.15761)|
@@ -97,6 +98,7 @@ Loïck BOURDOIS)](https://huggingface.co/blog/lbourdois/get-on-the-ssm-train)
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation](https://arxiv.org/abs/2403.05246)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.05246)|
 |[Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation](https://arxiv.org/abs/2402.10887)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2402.10887)|
 |[P-Mamba: Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation](https://arxiv.org/pdf/2402.08506)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.08506)|
 |[Semi-Mamba-UNet: Pixel-Level Contrastive Cross-Supervised Visual Mamba-based UNet for Semi-Supervised Medical Image Segmentation](https://arxiv.org/abs/2402.07245)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2402.07245)|
@@ -130,6 +132,7 @@ Loïck BOURDOIS)](https://huggingface.co/blog/lbourdois/get-on-the-ssm-train)
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[Motion-Guided Dual-Camera Tracker for Low-Cost Skill Evaluation of Gastric Endoscopy](https://arxiv.org/abs/2403.05146)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.05146)|
 |[FD-Vision Mamba for Endoscopic Exposure Correction](https://arxiv.org/abs/2402.06378)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2402.06378)|
 |[Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models](https://arxiv.org/abs/2403.03900)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.03900)|
 |[Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling](https://arxiv.org/abs/2403.03234)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.03234)|
