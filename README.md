@@ -19,6 +19,7 @@ Awsome works based on SSM and Mamba
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[The pitfalls of next-token prediction](https://arxiv.org/pdf/2403.06963)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.06963)|
 |[The Hidden Attention of Mamba Models](https://arxiv.org/abs/2403.01590)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.01590)|
 |[Theoretical Foundations of Deep Selective State-Space Models](https://arxiv.org/abs/2402.19047)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.19047)|
 |[Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling](https://arxiv.org/abs/2402.10211)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2402.10211)|
@@ -58,6 +59,7 @@ Awsome works based on SSM and Mamba
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes](https://arxiv.org/abs/2403.05795)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.05795)|
 |[DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models](https://arxiv.org/abs/2403.00818)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.00818)|
 |[MambaByte: Token-free Selective State Space Model](https://arxiv.org/abs/2401.13660)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2401.13660)|
 |[MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2401.04081)|
@@ -75,6 +77,7 @@ Awsome works based on SSM and Mamba
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[VideoMamba: State Space Model for Efficient Video Understanding](https://arxiv.org/abs/2403.06977)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.06977)|
 |[MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models](https://arxiv.org/abs/2403.05160)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.05160)|
 |[MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection](https://arxiv.org/abs/2403.02148)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.02148)|
 |[MambaIR: A Simple Baseline for Image Restoration with State-Space Model](https://arxiv.org/abs/2402.15648)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.15648)|
@@ -93,6 +96,11 @@ Awsome works based on SSM and Mamba
 
 
 ### Medical Image Analysis
+
+#### Muliti-Modal Medical Image Analysis
+
+|Title|Year|Venue|Code|PDF|
+|---|---|---|---|---|
 
 #### Medical Image Segmentation
 
@@ -114,6 +122,7 @@ Awsome works based on SSM and Mamba
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology](https://arxiv.org/abs/2403.06800)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.06800)|
 |[MedMamba: Vision Mamba for Medical Image Classification](https://arxiv.org/abs/2403.03849)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.03849)|
 
 
