@@ -47,10 +47,17 @@ Awsome works based on SSM and Mamba
 
 ## Time Series
 
+|Title|Year|Venue|Code|PDF|
+|---|---|---|---|---|
+|[TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting](https://arxiv.org/abs/2403.09898)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.09898)|
+|[Is Mamba Effective for Time Series Forecasting?](https://arxiv.org/abs/2403.11144)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.11144)|
+
+
 ### Audio generation
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[Multichannel Long-Term Streaming Neural Speech Enhancement for Static and Moving Speakers](https://arxiv.org/abs/2403.07675)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.07675)|
 |[MambaLithium: Selective state space model for remaining-useful-life, state-of-health, and state-of-charge estimation of lithium-ion batteries](https://arxiv.org/abs/2403.05430)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.05430)|
 |[MambaStock: Selective state space model for stock prediction](https://arxiv.org/abs/2402.18959)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.18959)|
 |[It's Raw! Audio Generation with State-Space Models](https://arxiv.org/abs/2202.09729)|2022|ICML 2022 - Long Talk| [code](https://github.com/state-spaces/s4/tree/main/models/sashimi) |[pdf](https://arxiv.org/abs/2202.09729)|
@@ -77,6 +84,10 @@ Awsome works based on SSM and Mamba
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[LocalMamba: Visual State Space Model with Windowed Selective Scan](https://arxiv.org/abs/2403.09338)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.09338)|
+|[Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding](https://arxiv.org/abs/2403.09626)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.09626)|
+|[EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba](https://arxiv.org/abs/2403.09977)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.09977)|
+|[On the low-shot transferability of [V]-Mamba](https://arxiv.org/abs/2403.10696)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.10696)|
 |[VideoMamba: State Space Model for Efficient Video Understanding](https://arxiv.org/abs/2403.06977)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.06977)|
 |[MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models](https://arxiv.org/abs/2403.05160)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.05160)|
 |[MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection](https://arxiv.org/abs/2403.02148)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.02148)|
@@ -86,6 +97,24 @@ Awsome works based on SSM and Mamba
 |[U-shaped Vision Mamba for Single Image Dehazing](https://arxiv.org/abs/2402.04139)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.04139)|
 |[Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model](https://arxiv.org/abs/2401.09417)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2401.09417)|
 
+
+### Super-Resolution
+
+|Title|Year|Venue|Code|PDF|
+|---|---|---|---|---|
+|[Activating Wider Areas in Image Super-Resolution](https://arxiv.org/abs/2403.08330)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.08330)|
+
+### Digital human
+
+|Title|Year|Venue|Code|PDF|
+|---|---|---|---|---|
+|[MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models](https://arxiv.org/abs/2403.09471)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.09471)|
+
+### Human Pose Estimation
+
+|Title|Year|Venue|Code|PDF|
+|---|---|---|---|---|
+|[Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM](https://arxiv.org/abs/2403.07487)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.07487)|
 
 ### Foundation Model
 
@@ -97,6 +126,11 @@ Awsome works based on SSM and Mamba
 
 ### Medical Image Analysis
 
+|Title|Year|Venue|Code|PDF|
+|---|---|---|---|---|
+|[MD-Dose: A diffusion model based on the Mamba for radiation dose prediction](https://arxiv.org/abs/2403.08479.pdf)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.08479.pdf)|
+
+
 #### Muliti-Modal Medical Image Analysis
 
 |Title|Year|Venue|Code|PDF|
@@ -106,6 +140,8 @@ Awsome works based on SSM and Mamba
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention](https://arxiv.org/abs/2403.07332)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.07332)|
+|[VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation](https://arxiv.org/abs/2403.09157)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.09157)|
 |[LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation](https://arxiv.org/abs/2403.05246)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.05246)|
 |[Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation](https://arxiv.org/abs/2402.10887)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2402.10887)|
 |[P-Mamba: Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation](https://arxiv.org/pdf/2402.08506)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.08506)|
@@ -159,6 +195,7 @@ Awsome works based on SSM and Mamba
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[A multi-cohort study on prediction of acute brain dysfunction states using selective state space models](https://arxiv.org/abs/2403.07201)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.07201)|
 |[MambaTab: A Simple Yet Effective Approach for Handling Tabular Data](https://arxiv.org/abs/2401.08867)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2401.08867)|
 
 ## Competitor
