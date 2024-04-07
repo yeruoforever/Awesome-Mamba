@@ -45,10 +45,27 @@ Awsome works based on SSM and Mamba
 
 
 
+## Multimodal understanding
+
+|Title|Year|Venue|Code|PDF|
+|---|---|---|---|---|
+|[SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding](https://arxiv.org/abs/2404.01174)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2404.01174)|
+|[ReMamber: Referring Image Segmentation with Mamba Twister](https://arxiv.org/abs/2403.17839)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.17839)|
+|[Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference](https://arxiv.org/abs/2403.14520)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.14520)|
+|[VL-Mamba: Exploring State Space Models for Multimodal Learning](https://arxiv.org/pdf/2403.13600)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.13600)|
+
+## Neural rendering
+
+|Title|Year|Venue|Code|PDF|
+|---|---|---|---|---|
+|[Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction](https://arxiv.org/abs/2403.18795)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.18795)|
+
 ## Time Series
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM](https://arxiv.org/abs/2403.20183)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.20183)|
+|[Uncovering Selective State Space Model’s Capabilities in Lifelong Sequential Recommendation](https://arxiv.org/abs/2403.15569)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.15569)|
 |[TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting](https://arxiv.org/abs/2403.09898)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.09898)|
 |[Is Mamba Effective for Time Series Forecasting?](https://arxiv.org/abs/2403.11144)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.11144)|
 
@@ -57,7 +74,9 @@ Awsome works based on SSM and Mamba
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
-|[Multichannel Long-Term Streaming Neural Speech Enhancement for Static and Moving Speakers](https://arxiv.org/abs/2403.07675)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.07675)|
+|[SPMamba: State-space model is all you need in speech separation](https://arxiv.org/abs/2404.02063)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2404.02063)|
+|[Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation](https://arxiv.org/abs/2403.18257)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.18257)|
+|[Multichannel Long-Term Streaming Neural Speech Enhancement for Static and Moving Speakers](https://arxiv.org/pdf/2403.07675)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.07675)|
 |[MambaLithium: Selective state space model for remaining-useful-life, state-of-health, and state-of-charge estimation of lithium-ion batteries](https://arxiv.org/abs/2403.05430)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.05430)|
 |[MambaStock: Selective state space model for stock prediction](https://arxiv.org/abs/2402.18959)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.18959)|
 |[It's Raw! Audio Generation with State-Space Models](https://arxiv.org/abs/2202.09729)|2022|ICML 2022 - Long Talk| [code](https://github.com/state-spaces/s4/tree/main/models/sashimi) |[pdf](https://arxiv.org/abs/2202.09729)|
@@ -77,6 +96,7 @@ Awsome works based on SSM and Mamba
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model](https://arxiv.org/abs/2403.12418)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.12418)|
 |[Graph Mamba: Towards Learning on Graphs with State Space Models](https://arxiv.org/abs/2402.08678)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2402.08678)|
 
 
@@ -84,11 +104,18 @@ Awsome works based on SSM and Mamba
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
-|[LocalMamba: Visual State Space Model with Windowed Selective Scan](https://arxiv.org/abs/2403.09338)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.09338)|
+|[ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model](https://arxiv.org/abs/2404.03425)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2404.03425)|
+|[RS-Mamba for Large Remote Sensing Image Dense Prediction](https://arxiv.org/abs/2404.02668)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2404.02668)|
+|[RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation](https://arxiv.org/abs/2404.02457)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2404.02457)|
+|[Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model](https://arxiv.org/abs/2404.01705)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2404.01705)|
+|[RSMamba: Remote Sensing Image Classification with State Space Model](https://arxiv.org/abs/2403.19654)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.19654)|
+|[PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition](https://arxiv.org/abs/2403.17695.pdf)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.17695.pdf)|
+|[VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting](https://arxiv.org/abs/2403.16536)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.16536)|
+|[LocalMamba: Visual State Space Model with Windowed Selective Scan](https://arxiv.org/abs/2403.09338)|2024|arXiv|code|[pdf](https://arxiv.org/pdf/2403.09338)
+|[VideoMamba: State Space Model for Efficient Video Understanding](https://arxiv.org/abs/2403.06977)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.06977)|
 |[Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding](https://arxiv.org/abs/2403.09626)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.09626)|
 |[EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba](https://arxiv.org/abs/2403.09977)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.09977)|
 |[On the low-shot transferability of [V]-Mamba](https://arxiv.org/abs/2403.10696)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.10696)|
-|[VideoMamba: State Space Model for Efficient Video Understanding](https://arxiv.org/abs/2403.06977)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.06977)|
 |[MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models](https://arxiv.org/abs/2403.05160)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.05160)|
 |[MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection](https://arxiv.org/abs/2403.02148)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.02148)|
 |[MambaIR: A Simple Baseline for Image Restoration with State-Space Model](https://arxiv.org/abs/2402.15648)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.15648)|
@@ -97,6 +124,12 @@ Awsome works based on SSM and Mamba
 |[U-shaped Vision Mamba for Single Image Dehazing](https://arxiv.org/abs/2402.04139)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.04139)|
 |[Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model](https://arxiv.org/abs/2401.09417)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2401.09417)|
 
+
+### Diffusion Model
+
+|Title|Year|Venue|Code|PDF|
+|---|---|---|---|---|
+|[ZigMa: A DiT-style Zigzag Mamba Diffusion Model](https://arxiv.org/abs/2403.13802)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.13802)|
 
 ### Super-Resolution
 
@@ -116,10 +149,13 @@ Awsome works based on SSM and Mamba
 |---|---|---|---|---|
 |[Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM](https://arxiv.org/abs/2403.07487)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.07487)|
 
-### Foundation Model
+### Foundation Model / Model Framework
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.19887)|
+|[State Space Models as Foundation Models: A Control Theoretic Overview](https://arxiv.org/abs/2403.16899)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.16899)|
+|[SiMBA: Simplified Mamba-based Architecture for Vision and Multivariate Time series](https://arxiv.org/abs/2403.15360.pdf)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.15360.pdf)|
 |[Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining](https://arxiv.org/abs/2402.03302)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.03302)|
 
 
@@ -128,6 +164,9 @@ Awsome works based on SSM and Mamba
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[MD-Dose: A Diffusion Model based on the Mamba for Radiotherapy Dose Prediction](https://arxiv.org/abs/2403.08479)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.08479)|
+|[Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention](https://arxiv.org/abs/2403.07332)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.07332)|
+|[A multi-cohort study on prediction of acute brain dysfunction states using selective state space models](https://arxiv.org/abs/2403.07201)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.07201)|
 |[MD-Dose: A diffusion model based on the Mamba for radiation dose prediction](https://arxiv.org/abs/2403.08479.pdf)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.08479.pdf)|
 
 
@@ -140,6 +179,13 @@ Awsome works based on SSM and Mamba
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation](https://arxiv.org/pdf/2404.01065)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2404.01065)|
+|[UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation](https://arxiv.org/abs/2403.20035)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.20035)|
+|[Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation](https://arxiv.org/abs/2403.17701)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.17701)|
+|[Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion](https://arxiv.org/abs/2403.17432)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.17432)|
+|[ProMamba: Prompt-Mamba for polyp segmentation](https://arxiv.org/abs/2403.13660)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.13660)|
+|[H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.13642)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.13642)|
+|[VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation](https://arxiv.org/abs/2403.09157)|2024|arXiv|code|[pdf](https://arxiv.org/pdf/2403.09157)|
 |[Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention](https://arxiv.org/abs/2403.07332)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.07332)|
 |[VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation](https://arxiv.org/abs/2403.09157)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.09157)|
 |[LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation](https://arxiv.org/abs/2403.05246)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.05246)|
@@ -158,10 +204,9 @@ Awsome works based on SSM and Mamba
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[CMViM: Contrastive Masked Vim Autoencoder for 3D Multi-modal Representation Learning for AD classification](https://arxiv.org/abs/2403.16520)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.16520)|
 |[MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology](https://arxiv.org/abs/2403.06800)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.06800)|
 |[MedMamba: Vision Mamba for Medical Image Classification](https://arxiv.org/abs/2403.03849)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.03849)|
-
-
 
 
 
@@ -183,13 +228,28 @@ Awsome works based on SSM and Mamba
 |[Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling](https://arxiv.org/abs/2403.03234)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.03234)|
 
 
+### Reinforcement Learning
+
+|Tital|Year|Venue|Code|PDF|
+|---|---|---|---|---|
+|[Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2403.19925)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.19925)|
+|[MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning](https://arxiv.org/abs/2403.09859)|2024|ICLR 2024|code|[pdf](https://arxiv.org/pdf/2403.09859.pdf)|
+
+
 ### Point Cloud
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy](https://arxiv.org/abs/2403.06467)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.06467)|
 |[Point Could Mamba: Point Cloud Learning via State Space Model](https://arxiv.org/abs/2403.00762)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2403.00762)|
 |[PointMamba: A Simple State Space Model for Point Cloud Analysis](https://arxiv.org/abs/2402.10739)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2402.10739)|
 
+
+## Robotics
+
+|Title|Year|Venue|Code|PDF|
+|---|---|---|---|---|
+|[Music to Dance as Language Translation using Sequence Models](https://arxiv.org/abs/2403.15569)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.15569)|
 
 ## Structulal Data
 
@@ -205,3 +265,8 @@ Awsome works based on SSM and Mamba
 |[Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2402.19427)|
 |[Gated Linear Attention Transformers with Hardware-Efficient Training](https://arxiv.org/abs/2312.06635)|2023|arXiv| code |[pdf](https://arxiv.org/abs/2312.06635)|
 
+## Pitfalls
+
+|Title|Year|Venue|Code|PDF|
+|---|---|---|---|---|
+|[The pitfalls of next-token prediction](https://arxiv.org/abs/2403.06963)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.06963)|
