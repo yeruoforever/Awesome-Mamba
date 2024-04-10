@@ -44,6 +44,12 @@ Awsome works based on SSM and Mamba
 |[HiPPO: Recurrent Memory with Optimal Polynomial Projections](https://arxiv.org/abs/2008.07669)|2020|NeurIPS 2020 - Spotlight| [code](https://github.com/state-spaces/s4/tree/main/models/hippo) |[pdf](https://arxiv.org/abs/2008.07669)|
 
 
+### Some Analysis and Discussion
+
+|Title|Year|Venue|Code|PDF|
+|---|---|---|---|---|
+|[Does Transformer Interpretability Transfer to RNNs?](https://arxiv.org/abs/2404.05971)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2404.05971)|
+|[Locating and Editing Factual Associations in Mamba](https://arxiv.org/abs/2404.03646)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2404.03646)|
 
 ## Multimodal understanding
 
@@ -58,12 +64,14 @@ Awsome works based on SSM and Mamba
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering](https://arxiv.org/abs/2404.05522)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2404.05522)|
 |[Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction](https://arxiv.org/abs/2403.18795)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.18795)|
 
 ## Time Series
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos](https://arxiv.org/abs/2404.06483)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2404.06483)|
 |[HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM](https://arxiv.org/abs/2403.20183)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.20183)|
 |[Uncovering Selective State Space Model’s Capabilities in Lifelong Sequential Recommendation](https://arxiv.org/abs/2403.15569)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.15569)|
 |[TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting](https://arxiv.org/abs/2403.09898)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.09898)|
@@ -104,12 +112,13 @@ Awsome works based on SSM and Mamba
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation](https://arxiv.org/abs/2404.04256)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2404.04256)|
 |[ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model](https://arxiv.org/abs/2404.03425)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2404.03425)|
 |[RS-Mamba for Large Remote Sensing Image Dense Prediction](https://arxiv.org/abs/2404.02668)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2404.02668)|
 |[RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation](https://arxiv.org/abs/2404.02457)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2404.02457)|
 |[Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model](https://arxiv.org/abs/2404.01705)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2404.01705)|
 |[RSMamba: Remote Sensing Image Classification with State Space Model](https://arxiv.org/abs/2403.19654)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.19654)|
-|[PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition](https://arxiv.org/abs/2403.17695.pdf)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.17695.pdf)|
+|[PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition](https://arxiv.org/abs/2403.17695.pdf)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.17695)|
 |[VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting](https://arxiv.org/abs/2403.16536)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.16536)|
 |[LocalMamba: Visual State Space Model with Windowed Selective Scan](https://arxiv.org/abs/2403.09338)|2024|arXiv|code|[pdf](https://arxiv.org/pdf/2403.09338)
 |[VideoMamba: State Space Model for Efficient Video Understanding](https://arxiv.org/abs/2403.06977)|2024|arXiv| code |[pdf](https://arxiv.org/pdf/2403.06977)|
@@ -215,6 +224,7 @@ Awsome works based on SSM and Mamba
 
 |Title|Year|Venue|Code|PDF|
 |---|---|---|---|---|
+|[VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration](https://arxiv.org/abs/2404.05105)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2404.05105)|
 |[MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration](https://arxiv.org/abs/2401.13934)|2024|arXiv| code |[pdf](https://arxiv.org/abs/2401.13934)|
 
 
